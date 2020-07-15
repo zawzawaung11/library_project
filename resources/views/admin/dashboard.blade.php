@@ -11,6 +11,7 @@
 			  <ul class="list-group list-group-flush">
 				<li class="list-group-item"><a href="/dashboard">Book List</a></li>
 				<li class="list-group-item"><a href="/book/add">Add Book</a></li>
+				<li class="list-group-item"><a href="/logout">Logout</a></li>
 			  </ul>
 			</div>
 			

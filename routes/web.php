@@ -39,3 +39,5 @@ Route::post('/book/update', 'BookController@update');
 Route::get('/book/search', 'BookController@search');
 
 Route::get('/book/delete/{id}', 'BookController@destroy');
+
+Route::get('logout', '\App\Http\Controllers\Auth\LoginController@logout');
